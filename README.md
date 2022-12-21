@@ -6,6 +6,7 @@
   - [Making Music Using DCGAN (Python)](https://github.com/jbyz/Making-Music-Using-DCGAN)
 - <b>Computer Vision</b>
   - [Barcode Scanner (Matlab)](https://github.com/jbyz/Barcode-Scanner)
+  - [Canny Edge Detection (Matlab)](https://github.com/jbyz/Canny-Edge-Detection)
   - [Blob Statistics (Matlab)](https://github.com/jbyz/Blob-Statistics)
   - [Dimension Analysis Application (Python)](https://github.com/jbyz/Dimension-Analysis-Application)
 - <b>Embedded Systems</b>
